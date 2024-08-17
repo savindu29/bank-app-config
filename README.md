@@ -6,22 +6,6 @@ This repository contains the configuration properties files for the `account`, `
 
 The repository includes the following files:
 
-├── account.properties
-├── account-dev.properties
-├── account-prod.properties
-├── account-qa.properties
-├── card.properties
-├── card-dev.properties
-├── card-prod.properties
-├── card-qa.properties
-├── loan.properties
-├── loan-dev.properties
-├── loan-prod.properties
-└── loan-qa.properties
-
-
-## Microservices
-
 ### Account Microservice
 - **Default Configuration**: `account.properties`
 - **Development Configuration**: `account-dev.properties`
