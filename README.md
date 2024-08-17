@@ -2,9 +2,9 @@
 
 This repository contains the configuration properties files for the `account`, `loan`, and `card` microservices across different environments: `dev`, `prod`, and `qa`. Each microservice has its default properties file along with environment-specific files.
 
-## Repository Structure
+## The repository includes the following files:
 
-The repository includes the following files:
+
 
 ### Account Microservice
 - **Default Configuration**: `account.properties`
